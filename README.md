@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rejoan1" alt="rejoan1" /></a> </p>
 
-- 🔭 A S Rank programer##
+- 🔭S Rank programer##
 
-- 🌱 I’m currently learning programing from scratch
+- 🌱 E Rank problem solver
 
 - 📫 How to reach me **smuradislam0@gmail.com**
 
-- 📄 Know about my experiences [now just student](now just student)
+- 📄 Know about my experiences [Worked On RAT]
 
-- ⚡ Fun fact **if you are funny than i am so**
+- ⚡ Fun fact ##Forget a break statement##
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
