@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rejoan1" alt="rejoan1" /></a> </p>
 
-- 🔭 A noob programmer**
+- 🔭 A S Rank programer##
 
-- 🌱 I’m currently learning programing from scratch**
+- 🌱 I’m currently learning programing from scratch
 
 - 📫 How to reach me **smuradislam0@gmail.com**
 
