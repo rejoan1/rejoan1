@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rejoan1&label=Profile%20views&color=0e75b6&style=flat" alt="rejoan1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rejoan1" alt="rejoan1" /></a> </p>
-<img align="right" width="400" height="250" alt="image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTYxZjk1amJubzQyNm4wN29nZGE1MWJhc3VtbnJrOWpkank3MzkzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" />
+<img align="right" width="400" height="250" alt="image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTYxZjk1amJubzQyNm4wN29nZGE1MWJhc3VtbnJrOWpkank3MzkzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.webp" />
 "
 - 🔭S Rank programer##
 
