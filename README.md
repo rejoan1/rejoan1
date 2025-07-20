@@ -1,6 +1,6 @@
 <h1 align="center">Hi there</h1>
 <h2 align="center">BreaKingSton</h2>
-<img slign="right" src="<img width="182" height="148" alt="image" src="https://github.com/user-attachments/assets/7c1c9796-518f-4ee4-9ad5-3898c74f77c1" />
+<img slign="right" width="182" height="148" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKsPJ7DHZV_3s9tN_rJsgQiuddg6OR_cIz6aXL5cZbCRoIuft7hgRWeA&s" />
 "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rejoan1&label=Profile%20views&color=0e75b6&style=flat" alt="rejoan1" /> </p>
