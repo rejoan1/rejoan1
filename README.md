@@ -1,4 +1,4 @@
-[logo](Bnnr.png)
+![logo](Bnnr.png)
 <h1 align="center">Hi there</h1>
 <h2 style="color:red;" align="center">BreaKingSton</h2>
 
