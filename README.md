@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/murad.islam.745395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="murad islam" height="30" width="40" /></a><br>
-<a href="https://www.instagram.com/islm3939?igsh=MWw1NnJmcng4NW40dw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murad islam" height="30" width="40" /></a>
+<a href="https://www.instagram.com/islm3939?igsh=MWw1NnJmcng4NW40dw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murad islam" height="30" width="40" display="inline" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
