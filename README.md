@@ -15,6 +15,11 @@
 - 📄 Know about my experiences [Worked On RAT]
 
 - ⚡ Fun fact ##Forget a break statement##
+- 
+- Code Breaker
+- 
+- Skill [Bug Creator]
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
