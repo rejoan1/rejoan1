@@ -17,6 +17,7 @@
 - ⚡ Fun fact ##SELECT * FROM my_life WHERE Situation = Funny##
 - Code Breaker
 - Skill [Bug Creator]
+- Favourite PlayGround [Kali Terminal]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
