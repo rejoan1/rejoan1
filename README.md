@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [Worked On RAT]
 
-- ⚡ Fun fact ##Forget a break statement##
+- ⚡ Fun fact ##SELECT * FROM my_life WHERE Situation = Funny##
 - Code Breaker
 - Skill [Bug Creator]
 
