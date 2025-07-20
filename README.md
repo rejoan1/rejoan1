@@ -1,4 +1,4 @@
-[logo](https://www.pinterest.com/pin/955607614695569382/)
+![logo](bnr.jpg)
 <h1 align="center">Hi there</h1>
 <h2 style="color:red;" align="center">BreaKingSton</h2>
 
