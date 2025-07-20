@@ -24,6 +24,9 @@
 <p align="left">
 <a href="https://www.facebook.com/murad.islam.745395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="murad islam" height="30" width="40" /></a>
 <a href="https://www.instagram.com/islm3939?igsh=MWw1NnJmcng4NW40dw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murad islam" height="30" width="40" /></a>
+<a href="https://wa.me/8801885390647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="murad islam" height="30" width="40" /></a>
+<a href="https://t.me/Murad islam" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="murad islam" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
