@@ -1,12 +1,11 @@
 <h1 align="center">Hi there</h1>
 <h2 align="center">BreaKingSton</h2>
-<img align="right" width="182" height="148" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKsPJ7DHZV_3s9tN_rJsgQiuddg6OR_cIz6aXL5cZbCRoIuft7hgRWeA&s" />
-"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rejoan1&label=Profile%20views&color=0e75b6&style=flat" alt="rejoan1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rejoan1" alt="rejoan1" /></a> </p>
-
+<img align="right" width="350" height="200" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKsPJ7DHZV_3s9tN_rJsgQiuddg6OR_cIz6aXL5cZbCRoIuft7hgRWeA&s" />
+"
 - 🔭S Rank programer##
 
 - 🌱 E Rank problem solver
